@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    
+}
+#cont {
+    width: 1950px;
+    border: 1px solid rgb(40, 90, 102);
+    padding: 0px;
+    margin: 0px;
+}
+#top {
+    width: 100%;
+    border: 1px solid rgb(207, 207, 207);
+    background-color: rgb(15, 177, 206);
+}
+#e {
+    width: 20%;
+    border: 1px solid rgb(255, 255, 255);
+    float: left;
+    height: 932px;
+    
+}
+.img{
+    width: 30%;
+    height: 30%;
+    padding-inline: 300px;
+}
+#corpo {
+    width: 80%;
+    height: 900px;
+    background-color: #d40d0d;
+}
+#r {
+    width: 80%;
+    height: 30px;
+    border: 1px solid rgb(24, 168, 187);
+    
+}
